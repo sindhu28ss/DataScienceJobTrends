@@ -24,31 +24,28 @@ The project follows a structured approach from data extraction to insight genera
 
 ### Data Preprocessing:
 - Handled missing values and removed duplicate entries  
-- Split location data into separate City and State columns  
-- Extracted minimum and maximum values from salary range fields  
+- Split location data into separate City and State columns and extracted minimum and maximum values from salary range fields  
 - Standardized and grouped job titles into clearly defined role categories  
-- Classified industries based on U.S. Bureau of Labor Statistics (BLS) groupings  
-  - 🔗 [BLS Industry Classification Reference](https://www.bls.gov/iag/tgs/iag_index_naics.htm)
-
+- Classified industries based on U.S. Bureau of Labor Statistics (BLS) groupings:[BLS Industry Classification Reference](https://www.bls.gov/iag/tgs/iag_index_naics.htm)
 
 ### Exploratory Data Analysis (EDA): 
 - **Average Salary by Job Title Category:** Highlights salary spread and outliers across roles.
 - **Average Salary by Industry:** Shows which industries pay more (e.g., Media & Entertainment).
 <p align="left">
-  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/avg%20salary-title.png" width="500">
-  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/avg%20salary-industry.png" width="500">
+  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/avg%20salary-title.png" width="300">
+  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/avg%20salary-industry.png" width="300">
 </p>
 
 - **Salary Insights:** Top Companies and Industries Offering the Highest Pay
 <p align="left">
-  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/top%20companies.png" width="500">
-  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/top%20industry.png" width="500">
+  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/top%20companies.png" width="300">
+  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/top%20industry.png" width="300">
 </p>
 
 - **Entry Level and Associate Roles – Deep dive:** 
 <p align="left">
-  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/entrycompanies.png" width="500">
-  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/entry-industry.png" width="500">
+  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/entrycompanies.png" width="300">
+  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/entry-industry.png" width="300">
 </p>
 
 ## Recommendations
