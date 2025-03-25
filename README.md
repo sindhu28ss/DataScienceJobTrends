@@ -32,20 +32,20 @@ The project follows a structured approach from data extraction to insight genera
 - **Average Salary by Job Title Category:** Highlights salary spread and outliers across roles.
 - **Average Salary by Industry:** Shows which industries pay more (e.g., Media & Entertainment).
 <p align="left">
-  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/avg%20salary-title.png" width="300">
-  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/avg%20salary-industry.png" width="300">
+  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/avg%20salary-title.png" width="400">
+  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/avg%20salary-industry.png" width="400">
 </p>
 
 - **Salary Insights:** Top Companies and Industries Offering the Highest Pay
 <p align="left">
-  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/top%20companies.png" width="300">
-  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/top%20industry.png" width="300">
+  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/top%20companies.png" width="400">
+  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/top%20industry.png" width="400">
 </p>
 
 - **Entry Level and Associate Roles – Deep dive:** 
 <p align="left">
-  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/entrycompanies.png" width="300">
-  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/entry-industry.png" width="300">
+  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/entrycompanies.png" width="400">
+  <img src="https://github.com/sindhu28ss/DataScienceJobTrends/blob/main/images/entry-industry.png" width="400">
 </p>
 
 ## Recommendations
